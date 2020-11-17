@@ -1,5 +1,5 @@
 # font-block-bars
-###Font for displaying vertical bars.
+### Font for displaying vertical bars.
 
 Bars have 10 progress level and 4 widths. Symbols used (grouped by width, the first symbol is empty space with proper width):
 - `%&'()*+,-./`  (for example in C: `char bar = '%' + width`)
