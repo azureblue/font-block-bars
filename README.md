@@ -1,7 +1,7 @@
 # font-block-bars
 ### Font for displaying vertical bars.
 
-Bars have 10 progress level and 4 widths. Symbols used (grouped by width, the first symbol is empty space with proper width):
+Bars have 10 progress (+ empty space character) level and 4 widths. Symbols used (grouped by width, the first symbol is empty space with proper width):
 - `%&'()*+,-./`  (for example in C: `char bar = '%' + width`)
 - `0123456789:`
 - `abcdefghijk`
@@ -9,3 +9,4 @@ Bars have 10 progress level and 4 widths. Symbols used (grouped by width, the fi
 
 ![rendered text](https://raw.githubusercontent.com/azureblue/font-block-bars/main/bars.png)
 
+![rendered text](https://raw.githubusercontent.com/azureblue/font-block-bars/main/status.png)
